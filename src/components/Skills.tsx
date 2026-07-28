@@ -21,7 +21,7 @@ import {
 	SiGithub,
 	SiFastapi,
 } from "react-icons/si";
-
+import { FaDocker } from "react-icons/fa";
 import { FaJava } from "react-icons/fa6";
 import { TbLetterC } from "react-icons/tb";
 
@@ -145,6 +145,10 @@ const skillCategories = [
 			{
 				name: "Hoppscotch",
 				icon: <SiHoppscotch className="text-4xl text-green-500" />,
+			},
+			{
+				name: "Docker",
+				icon: <FaDocker className="text-4xl text-blue-600" />,
 			},
 		],
 	},
