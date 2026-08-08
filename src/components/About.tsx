@@ -156,7 +156,9 @@ export default function About() {
 										</span>
 									</div>
 
-									<p className="font-medium text-cyan-300">CBSE Board</p>
+									<p className="font-medium text-cyan-300">
+										CBSE Board (PCM + CS)
+									</p>
 
 									<p className="mt-2 text-gray-400">
 										St. Martin Diocesan School
